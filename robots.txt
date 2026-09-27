@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anees-hammoudeh.github.io/sitemap.xml
